@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "763171131236",
+    "firebase_url": "https://garden-feb70.firebaseio.com",
+    "project_id": "garden-feb70",
+    "storage_bucket": "garden-feb70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763171131236:android:44e81e1a7f45381f8ef471",
+        "android_client_info": {
+          "package_name": "com.tessythomas.garden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763171131236-ge8n8pn3jt4nh1njjuogc54orrrb29k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEFnlyH4XQyMB22jfv8x-_vaRXrD-E9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763171131236-ge8n8pn3jt4nh1njjuogc54orrrb29k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
